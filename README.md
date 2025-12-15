@@ -58,8 +58,7 @@ Follow me here for more projects & updates ♡
 I’m **Manushi**, a **Third-Year Data Science Undergraduate** passionate about building  
 **AI-powered systems** that blend **Machine Learning, LLMs, RAG pipelines, and Data Engineering**.
 
-I love working end to end from raw data and feature engineering to intelligent models and real world systems.  
-Curious by nature always learning and enjoying a little unseriousness along the way ♡
+I love working end to end from raw data and feature engineering to intelligent models and real world systems. ♡
 
 ### 🌱 Currently exploring
 - Machine Learning & Deep Learning  
