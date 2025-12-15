@@ -1,9 +1,13 @@
 <div align="center">
-    <img width=300 src=".main.gif"/>   
-    <br/>
-    <br/>
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+&weight=900&size=25&pause=1000&color=F7D9F7&width=435&lines=Greeting+Wanderer!+I+am+Manushi!)](https://git.io/typing-svg)
+    <img width="300" src="./main.gif" alt="Main GIF"/>
+    <br/><br/>
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=25&pause=1000&color=F7D9F7&center=true&vCenter=true&width=445&lines=Greeting+Wanderer!+I+am+Manushi!"
+      alt="Typing SVG"
+    />
 </div>
+
+<br/>
 
 <div align="center">
     <a href="https://www.instagram.com/_mxnushi_/">
@@ -15,8 +19,8 @@
     <a href="mailto:mckettipearachchi@gmail.com">
         <img src="https://img.shields.io/badge/-Email-f5c2e7?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/>
     </a>
-    <a href="https://www.kaggle.com/">
-        <img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/>
+    <a href="https://medium.com/@mckettipearachchi">
+        <img src="https://img.shields.io/badge/-Medium-cba6f7?style=for-the-badge&logo=medium&logoColor=000000" alt="Medium"/>
     </a>
 </div>
 
@@ -36,45 +40,82 @@
     </a>
 </div>
 
+<br/>
 
 ## 👻 A little about me...
 
 I’m **Manushi**, a **Third-Year Data Science Undergraduate** passionate about building  
 **AI-powered systems** that blend **Machine Learning, LLMs, RAG pipelines, and Data Engineering**.
 
-I love working end to end from raw data and feature engineering to intelligent models and real world systems.
+I love working end to end from raw data and feature engineering to intelligent models and real world systems.  
 Curious by nature always learning and enjoying a little unseriousness along the way 🙂❤️
 
-Currently exploring:
-- 🤖 Machine Learning & Deep Learning  
-- 📚 LLMs, embeddings, and RAG systems  
-- ⚙️ Data engineering & ETL pipelines  
-- 🚨 Intelligent alerts & monitoring  
+### 🌱 Currently exploring
+- Machine Learning & Deep Learning  
+- LLMs, embeddings, and RAG systems  
+- Data engineering & ETL pipelines  
+- Intelligent alerts & monitoring  
 
 ```python
 manushi = {
     "role": "Data Science Undergraduate",
-    "interests": [
+    "focus": [
         "Machine Learning",
         "LLMs & RAG",
         "Data Engineering",
         "AI Systems"
     ],
-    "languages": ["Python", "SQL", "R"],
-    "frameworks": [
+
+    "languages": [
+        "Python",
+        "SQL",
+        "R",
+        "JavaScript"
+    ],
+
+    "ml_ai": [
+        "Scikit-learn",
         "PyTorch",
         "TensorFlow",
-        "Scikit-learn",
-        "FastAPI"
+        "MLflow"
     ],
-    "tools": [
+
+    "data": [
         "Pandas",
         "NumPy",
         "PostgreSQL",
         "MongoDB",
+        "SQLAlchemy",
+        "Power BI",
+        "Data Visualization"
+    ],
+
+    "backend": [
+        "FastAPI (REST, SSE)",
+        "Node.js",
+        "Express.js"
+    ],
+
+    "frontend": [
+        "React.js",
+        "Tailwind CSS"
+    ],
+
+    "devops_cloud": [
         "Docker",
         "Git",
-        "Linux"
+        "AWS",
+        "Azure"
     ],
+
+    "automation": [
+        "n8n"
+    ],
+
+    "tools": [
+        "Linux",
+        "RStudio"
+    ],
+
     "vibe": "Curious • Creative • Always Learning ♡"
 }
