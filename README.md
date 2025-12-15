@@ -40,6 +40,17 @@
     </a>
 </div>
 
+<div align="center">
+    <a href="https://github.com/ManushiChamika">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=ManushiChamika&data=followers,repositories,stars&theme=dark&hide=profile"/>
+    </a>
+    <br/>
+    <p>
+       ☝️ This is my <strong>main account</strong>
+Follow me here for more projects & updates ♡
+    </p>
+</div>
+
 <br/>
 
 ## 👻 A little about me...
@@ -48,7 +59,7 @@ I’m **Manushi**, a **Third-Year Data Science Undergraduate** passionate about 
 **AI-powered systems** that blend **Machine Learning, LLMs, RAG pipelines, and Data Engineering**.
 
 I love working end to end from raw data and feature engineering to intelligent models and real world systems.  
-Curious by nature always learning and enjoying a little unseriousness along the way 🙂❤️
+Curious by nature always learning and enjoying a little unseriousness along the way ♡
 
 ### 🌱 Currently exploring
 - Machine Learning & Deep Learning  
